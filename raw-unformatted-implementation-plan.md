@@ -1,5 +1,3 @@
-# DeepResearch FORMATTED Step by Step Plan
-
 # Execution Plan for PersonaForge Persona Engine
 
 ## Bootstrapping & Setup
